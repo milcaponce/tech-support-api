@@ -1,4 +1,4 @@
-package dev.milca.api.model;
+package dev.milca.api.tech_support_api.model;
 
 import java.time.LocalDateTime;
 
